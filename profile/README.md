@@ -17,4 +17,6 @@ Contribute: Don't hesitate to add your own notes, solutions, or any useful resou
 Engage: Use this space to ask questions, provide answers, and discuss topics with your peers and instructors. Collaboration is key to unlocking new insights and perspectives.
 We believe that learning is a journey best undertaken together. So, join us in building a vibrant and resourceful community that propels everyone forward in their ML Engineering endeavors.
 
-**Ready to dive in?** Follow the invitation link to become a part of our GitHub team and start exploring. Together, let's embark on this exciting learning adventure!
+**Ready to dive in?** Use the request link to become a part of our GitHub team and start exploring. Together, let's embark on this exciting learning adventure!
+
+## [ML Switcup Signup](https://siriusbits-ml_switchup.web.val.run/)
